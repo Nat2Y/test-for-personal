@@ -1,2 +1,2 @@
 # test-for-personal
-this is readme.
+this repository is for self machine sync
